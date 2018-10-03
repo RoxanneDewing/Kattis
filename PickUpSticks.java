@@ -1,6 +1,5 @@
 //Roxanne Dewing
 //CSC 226 Assignment 2 Kattis Pick Up Sticks Solution
-//V00853942
 //Code taken from Robert Sedgewick, Kevin Wayne-Algorthms 4th Ed
 //Code has been modified to suit the problem
 
